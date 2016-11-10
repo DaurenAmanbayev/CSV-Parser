@@ -1,0 +1,6 @@
+c:\users\ktoloc\documents\visual studio 2013\Projects\CSV Parser\CSV Console\bin\Debug\CSV Console.exe.config
+c:\users\ktoloc\documents\visual studio 2013\Projects\CSV Parser\CSV Console\bin\Debug\CSV Console.exe
+c:\users\ktoloc\documents\visual studio 2013\Projects\CSV Parser\CSV Console\bin\Debug\CSV Console.pdb
+c:\users\ktoloc\documents\visual studio 2013\Projects\CSV Parser\CSV Console\obj\Debug\CSV Console.exe
+c:\users\ktoloc\documents\visual studio 2013\Projects\CSV Parser\CSV Console\obj\Debug\CSV Console.pdb
+c:\users\ktoloc\documents\visual studio 2013\Projects\CSV Parser\CSV Console\obj\Debug\CSV Console.csprojResolveAssemblyReference.cache

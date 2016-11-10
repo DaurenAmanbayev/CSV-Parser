@@ -1,0 +1,4 @@
+c:\users\ktoloc\documents\visual studio 2013\Projects\CSV Parser\CSV Parser\bin\Debug\CSV Parser.exe.config
+c:\users\ktoloc\documents\visual studio 2013\Projects\CSV Parser\CSV Parser\obj\Debug\CSV Parser.csprojResolveAssemblyReference.cache
+c:\users\ktoloc\documents\visual studio 2013\Projects\CSV Parser\CSV Parser\obj\Debug\CSV_Parser.Properties.Resources.resources
+c:\users\ktoloc\documents\visual studio 2013\Projects\CSV Parser\CSV Parser\obj\Debug\CSV Parser.csproj.GenerateResource.Cache
